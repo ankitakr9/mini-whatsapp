@@ -64,7 +64,7 @@ git clone https://github.com/your-username/mini-whatsapp-chat.git
 npm install
 
 
-3. Start MongoDB locally OR connect MongoDB Atlas
+3. Start MongoDB locally OR connect to MongoDB Atlas
 
 4. Run the server
 
@@ -75,16 +75,8 @@ nodemon index.js
 5. Open in browser:
 
 
-http://localhost:8080/chats
-
 
 ---
-
-## 🌐 Deployment
-
-This project can be deployed on:
-
-- Render 
 
 Make sure to:
 - Add MongoDB Atlas connection string
