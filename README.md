@@ -50,34 +50,6 @@ mini-whatsapp/
 
 ---
 
-## ⚙️ Installation & Setup
-
-1. Clone the repository
-
-
-git clone https://github.com/your-username/mini-whatsapp-chat.git
-
-
-2. Install dependencies
-
-
-npm install
-
-
-3. Start MongoDB locally OR connect to MongoDB Atlas
-
-4. Run the server
-
-
-nodemon index.js
-
-
-5. Open in browser:
-
-
-
----
-
 Make sure to:
 - Add MongoDB Atlas connection string
 - Set environment variables
