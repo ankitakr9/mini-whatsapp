@@ -47,13 +47,6 @@ mini-whatsapp/
 ├── package.json
 └── README.md
 
-
----
-
-Make sure to:
-- Add MongoDB Atlas connection string
-- Set environment variables
-
 ---
 
 ## 🎯 Learning Outcome
